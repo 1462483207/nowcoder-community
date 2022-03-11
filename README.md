@@ -1,5 +1,6 @@
 # nowcoder-community
-上传
+开发工具：IDEA-2021.3、JDK1.8、Redis-5.0.14、Kafa2.81、Elasticsearch-7.16、Wkhtmltopdf
+测试工具：Postman、JMeter
 1.核心功能：
    		    - 发帖、评论、私信、转发；
    		    - 点赞、关注、通知、搜索；
